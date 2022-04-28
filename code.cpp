@@ -11,8 +11,10 @@ int main()
 //     Parallel region
     #pragma omp parallel
     {
-        std::cout<<"Hello from thread number : "<<omp_get_thread_num()<<std::endl;
+        int id=omp_get_thread_num();
+        
+        std::cout<<"Hello from thread : "<<id<<std::endl;
     }
 
-    std::cout<<"After paralle region "<<std::endl;
+    std::cout<<"After parallel region "<<std::endl;
 }
