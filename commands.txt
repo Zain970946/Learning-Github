@@ -6,3 +6,12 @@
 5)git add.
 4).git commit -m ("description")
 5).git push
+
+Commands for moving a project on your local machine to a repository
+
+1).git init
+2).git status
+3).git add
+4).git commit -m ()
+5).git remote add origin (url)
+6).git push origin master
