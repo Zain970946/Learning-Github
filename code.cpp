@@ -13,4 +13,6 @@ int main()
     {
         std::cout<<"Hello from thread number : "<<omp_get_thread_num()<<std::endl;
     }
+
+    std::cout<<"After paralle region "<<std::endl;
 }
