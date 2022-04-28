@@ -7,7 +7,7 @@
 4).git commit -m ("description")
 5).git push
 
-Commands for moving a project on your local machine to a repository
+Commands for moving a project on your local machine to a github repository
 
 1).git init
 2).git status
