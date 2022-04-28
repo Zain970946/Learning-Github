@@ -1,0 +1,8 @@
+# Git commands for cloning and again pushing
+
+1).git clone "url or ssh"                  (command)
+2).Move to that folder
+3).Now modify or add new files to that directory
+5)git add.
+4).git commit -m ("description")
+5).git push
