@@ -15,3 +15,7 @@ Commands for moving a project on your local machine to a github repository
 4).git commit -m ()
 5).git remote add origin (url)
 6).git push origin master
+
+
+-->Git command for branch
+1))Added to the feature branch
