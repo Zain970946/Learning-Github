@@ -1,0 +1,3 @@
+# Branching 
+Description : Branching is an important concept of git and it is used when you are adding a new feature to your project and you want to test it first so you make a new branch to test it
+
